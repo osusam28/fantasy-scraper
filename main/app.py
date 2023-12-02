@@ -42,3 +42,5 @@ with open('data.json', 'w+') as f:
     f.write(json.dumps(score_objs))
 
 driver.close()
+
+# eof
