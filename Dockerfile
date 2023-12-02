@@ -20,3 +20,5 @@ WORKDIR $APP_HOME
 COPY . .
 
 CMD python app.py
+
+# eof
